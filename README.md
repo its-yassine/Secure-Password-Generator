@@ -1,4 +1,6 @@
 # Secure Password Generator
+<img width="1203" height="540" alt="image" src="https://github.com/user-attachments/assets/dc56fdbc-22cb-45c8-a0e4-8d0d3dfd3dd0" />
+
 
 A small terminal program that generates random passwords using Python's `secrets` module.
 
@@ -48,7 +50,6 @@ A small terminal program that generates random passwords using Python's `secrets
 
 Python's `secrets` module is designed for generating values used in security-sensitive contexts. Do not share generated passwords or save them in a public repository. Use a trusted password manager to store passwords safely.
 
-<img width="1203" height="540" alt="image" src="https://github.com/user-attachments/assets/dc56fdbc-22cb-45c8-a0e4-8d0d3dfd3dd0" />
 
 ## Deutsch
 
